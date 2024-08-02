@@ -151,12 +151,12 @@ const bodycnt = `   <div class="scroll-up-btn">
         <h2 class="title">PORTFOLIO</h2>
         <div class="portfolio-content">
             <div class="gallery">
-                <img src="./images/service1.PNG" alt="" >
+                <img src="./images/service1.png" alt="" >
                 <img src="./images/service2.png" alt="" >
-                <img src="./images/service3.PNG" alt="" >
-                <img src="./images/service4.PNG" alt="" >
-                <img src="./images/service5.PNG" alt="" >
-                <img src="./images/service6.PNG" alt="" >
+                <img src="./images/service3.png" alt="" >
+                <img src="./images/service4.png" alt="" >
+                <img src="./images/service5.png" alt="" >
+                <img src="./images/service6.png" alt="" >
             </div>
         </div>
     </div>
