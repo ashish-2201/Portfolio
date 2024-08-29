@@ -40,7 +40,7 @@ const bodycnt = `   <div class="scroll-up-btn">
             <div class="text-1">Hello, my name is</div>
             <div class="text-2">Ashish Agrawal</div>
             <div class="text-3">And I'm a <span class="typing"></span></div>
-            <a href="mailto:codewithash2201@gmail.com" target= "_blank">Have an opportunity</a>
+            <a href="mailto:codewithash2201@gmail.com">Have an opportunity</a>
         </div>
     </div>
 </section>
