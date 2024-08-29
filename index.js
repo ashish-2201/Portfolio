@@ -213,7 +213,7 @@ const bodycnt = `   <div class="scroll-up-btn">
                         <textarea cols="30" rows="10" placeholder="Message.." required></textarea>
                     </div>
                     <div class="button-area">
-                        <a href="mailto:codewithash2201@gmail.com" target= "_blank">
+                        <a href="mailto:codewithash2201@gmail.com" >
                         <button type="submit">Send message</button>
                         </a>
                     </div>
