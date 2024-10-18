@@ -56,7 +56,7 @@ const bodycnt = `   <div class="scroll-up-btn">
             <div class="column right">
                 <div class="text">I'm Ashish and I'm a <span class="typing-2"></span></div>
                     <p>I am a Front-end Web Developer, Game Developer, Competitive Programmer and Designer. I have completed my undergraduation from Indian Institute of Technology Indore in the discipline of Electrical Engineering with a CGPA of 8.52. I have interest in Web Developement and Competetive Programming. I have contributed in many projects of Web Developement and have participated in various Competitive Programming contests. I am a very good learner and I can learn the concepts much easily in a friendly manner. </p>
-                <a href="https://drive.google.com/file/d/17f62PMlTFF9ipJNjEp7N2hPiJ7h_9gzp/view?usp=sharing" target= "_blank">RESUME</a>
+                <a href="https://drive.google.com/file/d/1gjnzbuW5JC1lQzmWzakZ7_yEunXXmcbD/view?usp=sharing" target= "_blank">RESUME</a>
             </div>
         </div>
     </div>
