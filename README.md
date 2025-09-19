@@ -27,10 +27,10 @@ ___
 ___
 ## **Download Links** : 
 You can access my project from your local machine !
->https : https://github.com/adarsh-2201/Portfolio.git
+>https : https://github.com/ashish-2201/Portfolio.git
 
 ```bash
-    git clone https://github.com/adarsh-2201/Portfolio.git
+    git clone https://github.com/ashish-2201/Portfolio.git
 ```
 ___
 # Thank You for your time !
